@@ -117,6 +117,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - your.email@example.com
+ihithisham n - ihthishamibrahim2003@gmail.com
 
-Project Link: [https://github.com/yourusername/e-commerce-price-tracker](https://github.com/yourusername/e-commerce-price-tracker) 
+Project Link: (https://github.com/ihthiibru/pricewise.git) 
